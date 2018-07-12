@@ -18,6 +18,18 @@
     font-size: 25px
 }
 
+.menu-notify {
+    background: #DFB835;
+}
+
+.profile-menu h3 {
+    background: #939FAF;
+}
+
+.pro-menu ul li a.active {
+    color: #DFB835;
+}
+
 .contact_grid_right input[type="text"] {
     width: 80%;
 }

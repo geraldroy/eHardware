@@ -1,5 +1,6 @@
 .login-form_agile {
-    margin-top: 40%;
+    margin: 50% 8% 8%;
+    padding: 2em 0;
 }
 
 .login-form_agile p {
@@ -13,4 +14,17 @@ input {
 
 input[type="submit"] {
     text-transform: capitalize !important;
+}
+
+input[type="submit"]:hover {
+    background: #DFB835 !important;
+}
+
+body {
+    background: #DFB835;
+    background-image: url("../images/background.jpg");
+}
+
+.awesomplete {
+    display: block;
 }
