@@ -1,0 +1,136 @@
+.profile-left {
+    width: 20%;
+}
+
+.Profile-mid {
+    width: 60%;
+}
+
+.Profile-right {
+    width: 20%;
+}
+
+.profile-left i {
+    font-size: 25px
+}
+
+.Profile-right i {
+    font-size: 25px
+}
+
+.contact_grid_right input[type="text"] {
+    width: 80%;
+}
+
+.contact_grid_right button[type="submit"] {
+    outline: none;
+    padding: 15px 0;
+    font-size: 14px;
+    border: none;
+    letter-spacing: 2px;
+    margin-left: 0em;
+    width: 15%;
+    color: #fff;
+    background: #000000;
+}
+
+.contact_grid_right a {
+    outline: none;
+    padding: 15px 0;
+    font-size: 14px;
+    border: none;
+    letter-spacing: 2px;
+    margin-left: 0em;
+    width: 15%;
+    color: #fff;
+    background: #000000;
+}
+
+.app-product-buy button[type="submit"] {
+    width: 100%;
+    padding: 2px 0;
+}
+
+.services-section {
+    padding: 0 0;
+    padding-bottom: 1em;
+}
+
+.contact-left h6 {
+    text-align: center;
+    padding-left: 0;
+    margin-bottom: 0.8em;
+}
+
+.app-category {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 65px;
+    width: 65px;
+
+}
+.app-category-1 {
+    background-image: url("../images/category1.jpg") !important;
+}
+.app-category-2 {
+    background-image: url("../images/category2.jpg") !important;
+}
+.app-category-3 {
+    background-image: url("../images/category3.jpg") !important;
+}
+.app-category-4 {
+    background-image: url("../images/category4.jpg") !important;
+}
+.app-category-5 {
+    background-image: url("../images/category5.jpg") !important;
+}
+.app-category-6 {
+    background-image: url("../images/category6.jpg") !important;
+}
+.app-category-7 {
+    background-image: url("../images/category7.jpg") !important;
+}
+.app-category-8 {
+    background-image: url("../images/category8.jpg") !important;
+}
+.app-category-9 {
+    background-image: url("../images/category9.jpg") !important;
+}
+.app-category-10 {
+    background-image: url("../images/category10.jpg") !important;
+}
+.app-category-11 {
+    background-image: url("../images/category11.jpg") !important;
+}
+.app-category-12 {
+    background-image: url("../images/category12.jpg") !important;
+}
+.app-category-13 {
+    background-image: url("../images/category13.jpg") !important;
+}
+.app-category-14 {
+    background-image: url("../images/category14.jpg") !important;
+}
+.app-category-15 {
+    background-image: url("../images/category15.jpg") !important;
+}
+.app-category-16 {
+    background-image: url("../images/category16.jpg") !important;
+}
+
+.nav-tabs {
+    margin: 0 auto 3em;
+}
+
+.nav-tabs a {
+    background: none !important;
+    border: none !important;
+}
+
+.app-product-img {
+    height: 150px;
+}
+
+.footer {
+    padding: 0.5em 0 1em 0;
+}

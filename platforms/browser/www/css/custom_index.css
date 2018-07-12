@@ -1,0 +1,16 @@
+.login-form_agile {
+    margin-top: 40%;
+}
+
+.login-form_agile p {
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+input[type="submit"] {
+    text-transform: capitalize !important;
+}
